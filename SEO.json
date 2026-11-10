@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "spinning-mill-automation",
+  "description": "Spinning Mill Automation — Textile Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Gazipur). Complete spinning mill ERP covering ring spinning, open-end, rotor frames, yarn lot tracking, and quality control automation. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "textile-manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/spinning-mill-automation"
+}
